@@ -1,4 +1,4 @@
-## Paul's Awesome Capstone
+## Steve Song  Capstone
 =========================
 
 ### Project Overview  
