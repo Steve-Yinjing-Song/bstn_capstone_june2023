@@ -1,39 +1,74 @@
-## Steve Song's  Capstone Project
-=================================
+## Paul's Awesome Capstone
+=========================
 
 ### Project Overview  
-With more than 145 million active daily users, Twitter has become
-a part of market stratefy for most business owners. It is a gold
-mine of customer insights and opportunities to build the band, drive
-sales and win fans. The dataset contains tweets on US airlines 
-classified as positive,negative and neutral. We will perform sentiment
-analysis in this project. 
+TBD, but it's going to be amazing!
+... 
+...
+...
 
+### Walkthrough Demo
+
+...
+...
+...
+
+### Project Flowchart
+
+...
+...
+...
 
 ### Project Organization
-After the dataset was imported, we need to do some data pre-processing
-or wrangling to remove unnecessary characters. And EDA analysis was 
-proformed. 
-Then we created a document-term matrixm to encode text data into a 
-numeric matrix. Two methods are used: Bag of Words and TF-IDF.
 
-After feature vectorization is completed, we are going to apply 
-different machine learning algorithms to build models, logistic 
-regression, KNN and decistion tree. 
+...
+...
+...
 
-### Data Dictionary
-   tweet_id  int64
-   airline_sentiment object
-   airline_sentiment_confidence float64
-   negativereason object
-   negativereason_confidence float64
-   airline   object
-   airline_sentiment_gold object
-   name object
-   negativereason_gold object
-   retweet_count int64
-   text object
-   tweet_coord object
-   tweet_created object
-   tweet_location object
-   use_timezone object
+* `data` 
+    - contains link to copy of the dataset (stored in a publicly accessible Google Drive folder)
+    - saved copy of aggregated / processed data as long as those are not too large (> 10 MB)
+
+* `model`
+    - joblib dump of final model / model object
+
+* `notebooks`
+    - contains all final notebooks involved in the project
+
+* `reports`
+    - contains final report which summarises the project
+
+* `references`
+    - contains papers / tutorials used in the project
+
+* `src`
+    - Contains the project source code (refactored from the notebooks)
+
+* `.gitignore`
+    - Part of Git, includes files and folders to be ignored by Git version control
+
+* `capstine_env.yml`
+    - Conda environment specification
+
+* `Makefile`
+    - Automation script for the project
+
+* `README.md`
+    - Project landing page (this page)
+
+* `LICENSE`
+    - Project license
+
+### Dataset
+
+...
+...
+...
+
+### Credits & References
+
+...
+...
+...
+
+--------
