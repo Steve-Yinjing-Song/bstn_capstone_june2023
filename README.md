@@ -1,11 +1,15 @@
-## Paul's Awesome Capstone
-=========================
+## Sentiment Analysis on Airline Tweets Dataset
+===============================================
 
 ### Project Overview  
-TBD, but it's going to be amazing!
-... 
-...
-...
+The objective of this project is to apply sentiment analysis, the most common text classification
+tool, to analyse an incoming message and tell whether the underlying sentiment is positive, negative
+or neutral. The dataset contains tweets on US Airlines of 2015. We applied some data preprocessing 
+or wrangling techniques to remove unnecessary characters,symbols and tokens.Different machine learning
+algorithms are used to bulild the models, evaluate the performance and make the predictions. Once 
+the model is put into implementation, the business owner is able to predict whether the customers'
+feedback is positve,negative and neutral. This can help identify potential issues in the process of 
+corporate operations and improve customers' satisfaction.  
 
 ### Walkthrough Demo
 
