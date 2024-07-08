@@ -11,17 +11,9 @@ the model is put into implementation, the business owner is able to predict whet
 feedback is positve,negative and neutral. This can help identify potential issues in the process of 
 corporate operations and improve customers' satisfaction.  
 
-### Walkthrough Demo
-
-...
-...
-...
-
 ### Project Flowchart
 
-...
-...
-...
+Gathering the data --> Data Preprocessing --> Text Representation -->Model Building --> Evaluation 
 
 ### Project Organization
 1. Problem Statement
@@ -89,9 +81,7 @@ better evaluate the model.
 
 ### Dataset
 
-...
-...
-...
+The dataset consist of tweets for 6 majir US airlines. It contains 14,640 observations and 15 features.
 
 ### Credits & References
 
